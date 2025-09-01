@@ -1,0 +1,62 @@
+body {
+    display: flex;
+    justify-content: center; /* horizontally center */
+    align-items: center; /*vertically center */
+    height: 300vh;
+    margin: 0;
+     background-color: rgb(225, 222, 222);
+}
+
+.div1 {
+
+   height: 300vh;
+   width: 60%;
+   background-color: white;
+   border-radius: 20px;
+}
+.title{
+   padding-left: 20px;
+   font-size: 50px;
+}
+.gmail{
+ font-size: 50px;
+ padding-left: 20px;
+}
+input{
+ margin-left: 30px;
+ color:black;
+ width: 500px;
+ height: 30px;
+ font-size: 20px;
+ background-color:rgb(239, 245, 239);
+}
+.re-entergmail{
+ font-size: 30px;
+ padding-left: 20px;
+}
+.topic{
+ font-style:bold;
+ font-size: 50px;
+ padding-left: 20px;
+ color: dimgrey;
+}
+.name{
+ padding-left: 20px;
+ font-size: 30px;
+}
+.adress{
+ padding-left: 20px;
+ font-size: 30px;
+}
+.id{
+ padding-left: 20px;
+ font-size: 30px;
+}
+.college{
+ padding-left: 20px;
+ font-size: 30px;
+}
+.university{
+ padding-left: 20px;
+ font-size: 30px;
+}
